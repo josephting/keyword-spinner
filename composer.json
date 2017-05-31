@@ -1,0 +1,18 @@
+{
+    "name": "josephting/keyword-spinner",
+    "authors": [
+        {
+            "name": "Joseph Ting",
+            "email": "josephting90@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "curl/curl": "^1.6"
+    },
+    "autoload": {
+      "psr-4": {
+        "KeywordSpinner\\": "src/"
+      }
+    }
+}
